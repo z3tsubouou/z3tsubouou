@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm z3tsubouou 
 - 🌱  I'm student
-- 💻  I'm currently working on Next.JS project
+- 💻  I'm currently working on Front-end, back-end project.
 
 <!-- **2022 Goals**
 - 📦  Complete a Google UX course. -->
