@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋  I'm z3tsubouou 
+- 🌱  I'm student
+- 💻  I'm currently working on Next.JS project
+
+<!-- **2022 Goals**
+- 📦  Complete a Google UX course. -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=z3tsubouou&show_icons=true&theme=tokyonight" alt="z3tsubouou" />
+ 
+<!-- **Let's connect**: [Instagram](https://instagram.com/delucif) • [Youtube](https://www.youtube.com/c/ulziibox) • [Website](https://ulziibox.dev/) • [Twitter](https://twitter.com/ulziibox) -->
+
 
 <!--
 **z3tsubouou/z3tsubouou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
