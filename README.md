@@ -1,17 +1,5 @@
-### Hi there 👋  I'm Davgatseren 
-<!-- - 🌱  I'm student. -->
-- 💻  I'm currently working as DevOps.
-
-- <h1 align="center">Hi 👋, I'm Davgatseren</h1>
-<h3 align="center">A DevOps engineer from Mongolia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=z3tsubouou&label=Profile%20views&color=0e75b6&style=flat" alt="z3tsubouou" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z3tsubouou" alt="z3tsubouou" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h1 align="left">Hi 👋, I'm Davgatseren</h1>
+<h3 align="left">A DevOps engineer, Full-Stack developer from Mongolia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,29 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=z3tsubouou&show_icons=true&locale=en&layout=compact" alt="z3tsubouou" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=z3tsubouou&show_icons=true&locale=en" alt="z3tsubouou" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z3tsubouou&" alt="z3tsubouou" /></p>
-
-<!-- **2022 Goals**
-- 📦  Complete a Google UX course. -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=z3tsubouou&show_icons=true&theme=tokyonight" alt="z3tsubouou" />
- 
-<!-- **Let's connect**: [Instagram](https://instagram.com/delucif) • [Youtube](https://www.youtube.com/c/ulziibox) • [Website](https://ulziibox.dev/) • [Twitter](https://twitter.com/ulziibox) -->
-
-
-<!--
-**z3tsubouou/z3tsubouou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=z3tsubouou&show_icons=true&locale=en" alt="z3tsubouou" /></p>
