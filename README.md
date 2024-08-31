@@ -1,6 +1,6 @@
 # Hello, everyone! 👋
 
-My name is **Vic Shóstak**. I'm a Full Stack Engineer with excellent DevOps knowledge and over 4 years of practical experience.
+My name is **Davgatseren**. I'm a Full Stack Engineer with excellent DevOps knowledge and over 4 years of practical experience.
 
 Currently, I'm working in the following stack:
 
